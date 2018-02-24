@@ -1,6 +1,5 @@
 # Getting and Cleaning Data Course Project: run_analysis
-# by Jacqueline Mae Virtudes
-# Jan 21, 2018, Feb 8, 2018
+
 
 
 # This script:
